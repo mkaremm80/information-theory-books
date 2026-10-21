@@ -4,6 +4,8 @@ Books on information theory and channel coding, with companion MATLAB and Python
 
 By **Mahmoud Abdelaziz** — Associate Professor, Avionics Department, MTC; IEEE Senior Member.
 
+Live showcase: https://mkaremm80.github.io/information-theory-books/
+
 ## Books
 
 | Book | PDF | Code |
@@ -24,3 +26,8 @@ Run the test scripts (`test_*.m`, `test_*.py`) or the demo scripts (`demo_*.m`, 
 ## Note
 
 The book PDFs live under `books/`, and the code folders also include the MATLAB (`.mat`) and NumPy (`.npy`) data files the scripts use.
+
+## License
+
+- Code in `code/` is released under the MIT License (see [LICENSE](LICENSE)).
+- Books in `books/` are licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) (see [CC-BY-NC-4.0.txt](CC-BY-NC-4.0.txt)): free to share and adapt with attribution, for non-commercial purposes only.
