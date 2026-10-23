@@ -6,6 +6,25 @@ By **Mahmoud Abdelaziz** — Associate Professor, Avionics Department, MTC; IEEE
 
 Live showcase: https://mkaremm80.github.io/information-theory-books/
 
+
+## ▶ Watch: 5G NR LDPC in 60 seconds
+
+**How the encoder builds a codeword — and how the layered decoder repairs it.**
+
+<video controls src="videos/ldpc-5g/ldpc5g_encoder_decoder_v1.mp4" poster="videos/ldpc-5g/poster.jpg"></video>
+
+[▶ Watch the video (60 s, MP4)](videos/ldpc-5g/ldpc5g_encoder_decoder_v1.mp4) · [📄 Narration, timeline and numbers](videos/ldpc-5g/ldpc5g_encoder_decoder_v1_narration.md) · [📘 LDPC book (Part 2)](books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_Part2_v1.pdf)
+
+One real 5G code block: **K = 1024 data bits, E = 2048 sent bits, rate 1/2, base graph BG2, lifting size Z = 104, BPSK at Eb/N0 = 1.5 dB, layered normalized min-sum (α = 0.75).**
+
+| | At the receiver | After 10 iterations |
+|---|---|---|
+| Unsatisfied checks (of 1248) | 620 | **0** |
+| Wrong bits (of 2288) | 373 | **0** |
+
+Over many frames this code has FER ≈ 4 × 10⁻³ at 1.5 dB, with 9.7 iterations on average. From *LDPC Codes: From Zero to Expert (Part 2)*, Chapters 6, 9 and 11.
+
+
 ## Books
 
 | Book | PDF | Code |
