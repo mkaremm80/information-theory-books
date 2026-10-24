@@ -13,7 +13,7 @@ Live showcase: https://mkaremm80.github.io/information-theory-books/
 
 <video controls src="videos/ldpc-5g/ldpc5g_encoder_decoder_v1.mp4" poster="videos/ldpc-5g/poster.jpg"></video>
 
-[▶ Watch the video (60 s, MP4)](videos/ldpc-5g/ldpc5g_encoder_decoder_v1.mp4) · [📄 Narration, timeline and numbers](videos/ldpc-5g/ldpc5g_encoder_decoder_v1_narration.md) · [📘 LDPC book (Part 2)](books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_Part2_v1.pdf)
+[▶ Watch the video (60 s, MP4)](videos/ldpc-5g/ldpc5g_encoder_decoder_v1.mp4) · [📄 Narration, timeline and numbers](videos/ldpc-5g/ldpc5g_encoder_decoder_v1_narration.md) · [📘 LDPC book](books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_v2.pdf)
 
 One real 5G code block: **K = 1024 data bits, E = 2048 sent bits, rate 1/2, base graph BG2, lifting size Z = 104, BPSK at Eb/N0 = 1.5 dB, layered normalized min-sum (α = 0.75).**
 
@@ -22,7 +22,7 @@ One real 5G code block: **K = 1024 data bits, E = 2048 sent bits, rate 1/2, base
 | Unsatisfied checks (of 1248) | 620 | **0** |
 | Wrong bits (of 2288) | 373 | **0** |
 
-Over many frames this code has FER ≈ 4 × 10⁻³ at 1.5 dB, with 9.7 iterations on average. From *LDPC Codes: From Zero to Expert (Part 2)*, Chapters 6, 9 and 11.
+Over many frames this code has FER ≈ 4 × 10⁻³ at 1.5 dB, with 9.7 iterations on average. From *LDPC Codes: From Zero to Expert*, Chapters 6, 9 and 11.
 
 
 ## Books
@@ -30,7 +30,7 @@ Over many frames this code has FER ≈ 4 × 10⁻³ at 1.5 dB, with 9.7 iteratio
 | Book | PDF | Code |
 |---|---|---|
 | Information Theory: Compression | [books/information-theory/Information_Theory_Compression_v1.pdf](books/information-theory/Information_Theory_Compression_v1.pdf) | [code/information-theory/](code/information-theory/) |
-| LDPC Codes: From Zero to Expert (Part 2) | [books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_Part2_v1.pdf](books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_Part2_v1.pdf) | [code/ldpc-codes/](code/ldpc-codes/) |
+| LDPC Codes: From Zero to Expert | [books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_v2.pdf](books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_v2.pdf) | [code/ldpc-codes/](code/ldpc-codes/) |
 | Polar Codes: From Zero to Expert | [books/polar-codes/Polar_Codes_From_Zero_to_Expert_v2.pdf](books/polar-codes/Polar_Codes_From_Zero_to_Expert_v2.pdf) | [code/polar-codes/](code/polar-codes/) |
 
 For Polar Codes, version 2 (October 2026, 156 pages) is now one volume with block diagrams and Appendix D (MATLAB) included inside it, so there is no separate MATLAB appendix file. The first version (v1) and a draft of chapters 1–9 are also in the book folder. The Information Theory book folder still includes its MATLAB appendix.
