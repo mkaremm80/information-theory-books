@@ -40,7 +40,7 @@ Start with BEC(0.5): at N = 1024, **34% of bit-channels are almost perfect and 3
 
 | Book | PDF | Code |
 |---|---|---|
-| Information Theory: Compression | [books/information-theory/Information_Theory_Compression_v1.pdf](books/information-theory/Information_Theory_Compression_v1.pdf) | [code/information-theory/](code/information-theory/) |
+| Information Theory: Compression | [books/information-theory/Information_Theory_Compression_v2.pdf](books/information-theory/Information_Theory_Compression_v2.pdf) | [code/information-theory/](code/information-theory/) |
 | LDPC Codes: From Zero to Expert | [books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_v2.pdf](books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_v2.pdf) | [code/ldpc-codes/](code/ldpc-codes/) |
 | Polar Codes: From Zero to Expert | [books/polar-codes/Polar_Codes_From_Zero_to_Expert_v2.pdf](books/polar-codes/Polar_Codes_From_Zero_to_Expert_v2.pdf) | [code/polar-codes/](code/polar-codes/) |
 
