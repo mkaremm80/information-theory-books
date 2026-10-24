@@ -25,6 +25,17 @@ One real 5G code block: **K = 1024 data bits, E = 2048 sent bits, rate 1/2, base
 Over many frames this code has FER ≈ 4 × 10⁻³ at 1.5 dB, with 9.7 iterations on average. From *LDPC Codes: From Zero to Expert*, Chapters 6, 9 and 11.
 
 
+## ▶ Watch: Polar codes in 72 seconds
+
+**How channels polarize, how the encoder works, and how the SC decoder uses it.**
+
+<video controls src="videos/polar-codes/polar_codes_explainer_v1.mp4" poster="videos/polar-codes/poster.jpg"></video>
+
+[▶ Watch the video (72 s, MP4)](videos/polar-codes/polar_codes_explainer_v1.mp4) · [📄 Narration, timeline and numbers](videos/polar-codes/polar_codes_explainer_v1_narration.md) · [📘 Polar book](books/polar-codes/Polar_Codes_From_Zero_to_Expert_v2.pdf)
+
+Start with BEC(0.5): at N = 1024, **34% of bit-channels are almost perfect and 34% almost useless**, mean capacity still 0.5. Then the (8,4) encoder (12 XORs, codeword 10100101) and the SC decoder correcting a channel error. On (256,128) at 3 dB: SC BLER ≈ 1.2 × 10⁻², CA-SCL-8 ≈ 6.6 × 10⁻⁴. From *Polar Codes: From Zero to Expert* (v2), Chapters 4, 5, 6 and 7–8.
+
+
 ## Books
 
 | Book | PDF | Code |
