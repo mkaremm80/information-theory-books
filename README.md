@@ -33,7 +33,7 @@ Over many frames this code has FER ≈ 4 × 10⁻³ at 1.5 dB, with 9.7 iteratio
 | LDPC Codes: From Zero to Expert (Part 2) | [books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_Part2_v1.pdf](books/ldpc-codes/LDPC_Codes_From_Zero_to_Expert_Part2_v1.pdf) | [code/ldpc-codes/](code/ldpc-codes/) |
 | Polar Codes: From Zero to Expert | [books/polar-codes/Polar_Codes_From_Zero_to_Expert_v2.pdf](books/polar-codes/Polar_Codes_From_Zero_to_Expert_v2.pdf) | [code/polar-codes/](code/polar-codes/) |
 
-The book folders also include appendices (MATLAB appendices) and, for Polar Codes, the first version (v1) and a draft of chapters 1–9.
+For Polar Codes, version 2 (October 2026, 156 pages) is now one volume with block diagrams and Appendix D (MATLAB) included inside it, so there is no separate MATLAB appendix file. The first version (v1) and a draft of chapters 1–9 are also in the book folder. The Information Theory book folder still includes its MATLAB appendix.
 
 ## Code
 
